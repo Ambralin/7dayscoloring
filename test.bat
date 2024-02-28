@@ -1,0 +1,1 @@
+python3.10 "C:\Users\dzelm\Desktop\code\7dayscoloring\main.py" %1
